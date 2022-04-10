@@ -1,4 +1,4 @@
-import Profile from "./PortfolioContainer/Home/Proflie"
+import Profile from "./PortfolioContainer/Home/Profile"
 
 function App() {
   return (
