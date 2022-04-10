@@ -40,7 +40,19 @@ export default function Profile() {
                                 ]}
                                 />
                             </h1>
+                            <span className="profile-role-tagline">
+                                Knack of building applications with front and back end operations.
+                            </span>
                         </span>
+                    </div>
+                    <div className="profile-options">
+                        <button className="btn primary-btn">
+                            {" "}
+                            Contact Me{" "}
+                        </button>
+                        <a href='#' download="Antoinette resume">
+                            <button className="btn highlighted-btn">Get Resume</button>
+                        </a>
                     </div>
                 </div>
             </div>
