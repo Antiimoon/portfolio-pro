@@ -55,7 +55,7 @@ export default function Profile() {
                             {" "}
                             Contact Me{" "}
                         </button>
-                        <a href='#' download="Antoinette's resume">
+                        <a href='IMG_3130 copy.PNG' download="Antoinette's resume">
                             <button className="btn highlighted-btn">Get Resume</button>
                         </a>
                     </div>
